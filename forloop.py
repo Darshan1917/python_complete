@@ -15,6 +15,7 @@ List = ["darshan", "farid", 'malli' , 'sathish' , 'raj', 'ravi']
 
 for y in range(0,(len(List)/2)):
     print (List[y])
+    print ("Hello")
 
 # Second way of doing or executing the list is
 kist1 = ["dars", "far", 'mai', 'sathi', 'rj', 'ra']
