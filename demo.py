@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # -*- coding: utf-8 -*-
 """
 Created on Sat Feb  3 00:04:42 2018
@@ -21,3 +22,7 @@ button2.pack()
 root.mainloop()
 
 
+=======
+f= open('tes3t.txt')
+print (f.read())
+>>>>>>> 5e08f86005e6f520796e88cf4b4f6ee8eb3b7af3
